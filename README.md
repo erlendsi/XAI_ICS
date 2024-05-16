@@ -1,7 +1,7 @@
 # XAI_ICS
 
 
-Notebooks used mostly for testing
+Notebooks used for testing
 
 Scripts used to get results
 
