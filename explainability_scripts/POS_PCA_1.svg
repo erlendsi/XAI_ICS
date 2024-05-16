@@ -1,0 +1,3424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2200" height="1200" viewBox="0 0 2200 1200">
+<defs>
+<linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="d0">
+<stop offset="0%" stop-color="#303030" />
+<stop offset="25%" stop-color="#616161" />
+<stop offset="50%" stop-color="#929292" />
+<stop offset="75%" stop-color="#c4c4c4" />
+<stop offset="100%" stop-color="#f5f5f5" />
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="2200" height="1200" fill="#ffffff" />
+<g transform="translate( 300, 125 )">
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="0.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="0.0" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="7.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="7.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="15.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.56, 0.8 ]</title>
+<rect x="5.0" y="15.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="23.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="23.25" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="31.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="31.0" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="38.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="38.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="46.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.27, 0.8 ]</title>
+<rect x="29.437523835434153" y="46.5" width="93.28975408317278" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="54.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="54.25" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="62.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="62.0" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="69.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.39, 0.8 ]</title>
+<rect x="18.759021745714485" y="69.75" width="103.96825617289244" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="77.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="77.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="85.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="85.25" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="93.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.39, 0.8 ]</title>
+<rect x="18.759021745714485" y="93.0" width="103.96825617289244" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="100.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="100.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="108.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="108.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="116.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="116.25" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="124.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="124.0" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="131.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="131.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="139.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="139.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="147.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="147.25" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="155.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="155.0" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="162.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="162.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="170.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="170.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="178.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="178.25" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="186.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="186.0" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="193.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.6, 0.8]</title>
+<rect x="5.0" y="193.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="201.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.56, 0.8 ]</title>
+<rect x="5.0" y="201.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="209.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="209.25" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="217.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="217.0" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="224.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.36, 0.03]</title>
+<rect x="490.90909090909093" y="224.75" width="103.35617502809487" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="232.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.6, 0.8]</title>
+<rect x="5.0" y="232.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="232.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.36, 0.03]</title>
+<rect x="490.90909090909093" y="232.5" width="103.35617502809487" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="240.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.39, 0.8 ]</title>
+<rect x="18.759021745714485" y="240.25" width="103.96825617289244" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="248.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.01]</title>
+<rect x="122.72727272727273" y="248.0" width="77.9466469783241" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="255.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.01]</title>
+<rect x="122.72727272727273" y="255.75" width="77.9466469783241" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="263.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.01]</title>
+<rect x="122.72727272727273" y="263.5" width="77.95867683044929" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="263.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.36, 0.03]</title>
+<rect x="490.90909090909093" y="263.5" width="103.36398752413125" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="271.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.01]</title>
+<rect x="122.72727272727273" y="271.25" width="77.9466469783241" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="279.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.01]</title>
+<rect x="122.72727272727273" y="279.0" width="77.9466469783241" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="286.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.  ]</title>
+<rect x="981.8181818181819" y="286.75" width="94.34453902443586" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="294.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.21, 0.8 ]</title>
+<rect x="34.19810740221345" y="294.5" width="88.52917051639348" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="294.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.5514613955222" y="294.5" width="93.630356786296" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="302.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="302.25" width="45.7233473282842" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="310.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.5514613955222" y="310.0" width="93.630356786296" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="310.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.  ,0.05]</title>
+<rect x="587.9185326398301" y="310.0" width="11.060521213202676" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="310.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.  ,0.13]</title>
+<rect x="705.3044175169857" y="310.0" width="31.059211564982576" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.14, 0.11]</title>
+<rect x="736.3636363636364" y="310.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.14,-0.02]</title>
+<rect x="736.3636363636364" y="310.0" width="60.16375201845287" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="317.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.36, 0.03]</title>
+<rect x="490.90909090909093" y="317.75" width="102.79522152639703" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="325.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="325.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="325.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.  , 0.13]</title>
+<rect x="704.7352575471525" y="325.5" width="31.628371534815756" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="333.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="333.25" width="45.869289713365276" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="341.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.03,0.46]</title>
+<rect x="276.71370036249306" y="341.0" width="91.46811781932512" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.18, 0.36]</title>
+<rect x="1227.2727272727273" y="348.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.18, 0.  ]</title>
+<rect x="1227.2727272727273" y="348.75" width="42.50989482993563" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="356.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="356.5" width="45.7233473282842" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="364.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="364.25" width="45.7233473282842" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.18, 0.36]</title>
+<rect x="1227.2727272727273" y="372.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.18, 0.  ]</title>
+<rect x="1227.2727272727273" y="372.0" width="42.50989482993563" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="379.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.56, 0.8 ]</title>
+<rect x="5.0" y="379.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="379.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.5514613955222" y="379.75" width="93.630356786296" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="387.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.5514613955222" y="387.5" width="93.630356786296" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="387.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.1 ]</title>
+<rect x="590.8842400022313" y="387.5" width="22.7521216660014" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="387.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.  ,0.13]</title>
+<rect x="704.9402854024901" y="387.5" width="31.423343679478222" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.49, 0.59]</title>
+<rect x="1104.5454545454545" y="387.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.49,-0.06]</title>
+<rect x="1104.5454545454545" y="387.5" width="49.29718743328699" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="395.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.  ]</title>
+<rect x="981.8181818181819" y="395.25" width="94.35026559904156" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="403.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.9491250292753" y="403.0" width="93.23269315254286" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="403.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.01,0.04]</title>
+<rect x="588.9369255468417" y="403.0" width="7.4850783769467455" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.37, 0.42]</title>
+<rect x="859.0909090909091" y="403.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.05,0.42]</title>
+<rect x="923.6569813863839" y="403.0" width="58.16119582385218" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="410.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.24, 0.8 ]</title>
+<rect x="31.788152497449367" y="410.75" width="90.93912542115757" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="410.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.5514613955222" y="410.75" width="93.630356786296" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="418.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.36, 0.03]</title>
+<rect x="490.90909090909093" y="418.5" width="102.79522152639703" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="426.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="426.25" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="426.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.9491250292753" y="426.25" width="93.23269315254286" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="434.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="434.0" width="45.7233473282842" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="441.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.03,0.46]</title>
+<rect x="277.75200257113056" y="441.75" width="90.42981561068767" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="449.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.  ]</title>
+<rect x="981.8181818181819" y="449.5" width="94.35026559904156" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="457.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="457.25" width="45.869289713365276" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="465.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="465.0" width="45.869289713365276" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="472.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="472.75" width="45.7233473282842" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="480.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.08]</title>
+<rect x="368.1818181818182" y="480.5" width="45.7233473282842" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="488.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.03,0.46]</title>
+<rect x="276.71370036249306" y="488.25" width="91.46811781932512" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="496.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.  ]</title>
+<rect x="981.8181818181819" y="496.0" width="94.22085975334264" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="503.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25,-0.01]</title>
+<rect x="122.72727272727273" y="503.75" width="71.77811828728132" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="511.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.15, 0.8 ]</title>
+<rect x="39.74306620024747" y="511.5" width="82.98421171835946" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.49, 0.59]</title>
+<rect x="1104.5454545454545" y="511.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.49,-0.06]</title>
+<rect x="1104.5454545454545" y="511.5" width="49.29718743328699" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="519.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.  ]</title>
+<rect x="122.72727272727273" y="519.25" width="75.72554556799437" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="527.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.  ]</title>
+<rect x="122.72727272727273" y="527.0" width="75.72554556799437" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="534.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25,-0.01]</title>
+<rect x="122.72727272727273" y="534.75" width="71.86014401683198" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="542.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25,-0.01]</title>
+<rect x="122.72727272727273" y="542.5" width="71.86014401683198" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="550.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.01]</title>
+<rect x="368.1818181818182" y="550.25" width="40.515437303272456" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="558.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="558.0" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.42]</title>
+<rect x="859.0909090909091" y="558.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.03,0.42]</title>
+<rect x="920.571792763442" y="558.0" width="61.24638444679406" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="565.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.  ]</title>
+<rect x="981.8181818181819" y="565.75" width="94.22085975334264" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="573.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.6, 0.8]</title>
+<rect x="5.0" y="573.5" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="573.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.01]</title>
+<rect x="122.72727272727273" y="573.5" width="77.9466469783241" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="581.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.  ]</title>
+<rect x="981.8181818181819" y="581.25" width="94.22085975334264" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="589.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.  ]</title>
+<rect x="122.72727272727273" y="589.0" width="75.72554556799437" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="596.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.  ]</title>
+<rect x="122.72727272727273" y="596.75" width="75.72554556799437" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="604.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.  ]</title>
+<rect x="122.72727272727273" y="604.5" width="75.72554556799437" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="612.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25,-0.01]</title>
+<rect x="122.72727272727273" y="612.25" width="71.86014401683198" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="620.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.01]</title>
+<rect x="122.72727272727273" y="620.0" width="77.99465630773285" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="620.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.5514613955222" y="620.0" width="93.630356786296" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="620.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.1 ]</title>
+<rect x="591.3373779342188" y="620.0" width="22.298983734013902" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.14, 0.11]</title>
+<rect x="736.3636363636364" y="620.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.14,-0.02]</title>
+<rect x="736.3636363636364" y="620.0" width="62.63962625798781" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="620.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.01]</title>
+<rect x="981.8181818181819" y="620.0" width="95.011465305153" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="627.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.55, 0.8 ]</title>
+<rect x="5.0" y="627.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.42]</title>
+<rect x="859.0909090909091" y="627.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.03,0.42]</title>
+<rect x="920.6403477650742" y="627.75" width="61.17782944516176" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="635.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.03,0.46]</title>
+<rect x="276.71370036249306" y="635.5" width="91.46811781932512" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="635.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.  , 0.13]</title>
+<rect x="704.7352575471525" y="635.5" width="31.628371534815756" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="643.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.  ]</title>
+<rect x="981.8181818181819" y="643.25" width="94.22085975334264" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="651.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.  ]</title>
+<rect x="122.72727272727273" y="651.0" width="75.72554556799437" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="658.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.36, 0.03]</title>
+<rect x="490.90909090909093" y="658.75" width="103.35617502809487" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="658.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.13]</title>
+<rect x="708.9525347053403" y="658.75" width="27.411094376627986" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="666.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25, 0.01]</title>
+<rect x="122.72727272727273" y="666.5" width="78.36036061920517" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="666.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.9491250292753" y="666.5" width="93.23269315254286" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="666.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.  , 0.13]</title>
+<rect x="704.5606271005569" y="666.5" width="31.8030019814114" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.18, 0.36]</title>
+<rect x="1227.2727272727273" y="666.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.18,-0.  ]</title>
+<rect x="1227.2727272727273" y="666.5" width="40.951048281399984" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="674.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.11]</title>
+<rect x="368.1818181818182" y="674.25" width="47.9757209329926" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="674.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.04]</title>
+<rect x="590.8842400022313" y="674.25" width="5.5377639215572" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.37, 0.42]</title>
+<rect x="859.0909090909091" y="674.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.06,0.42]</title>
+<rect x="925.0748751086264" y="674.25" width="56.74330210160967" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="682.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.9491250292753" y="682.0" width="93.23269315254286" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="682.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52,-0.03]</title>
+<rect x="368.1818181818182" y="682.0" width="37.88957211535704" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="689.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.8789768233234" y="689.75" width="93.30284135849479" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="689.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52,-0.03]</title>
+<rect x="368.1818181818182" y="689.75" width="37.423885732100636" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="697.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.8395909457552" y="697.5" width="93.34222723606297" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="697.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.36, 0.04]</title>
+<rect x="490.90909090909093" y="697.5" width="105.30905597301607" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="697.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.  ,0.13]</title>
+<rect x="704.8318006865466" y="697.5" width="31.53182839542167" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.37, 0.42]</title>
+<rect x="859.0909090909091" y="697.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.01, 0.42]</title>
+<rect x="915.5894163758803" y="697.5" width="66.22876083435577" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.49, 0.59]</title>
+<rect x="1104.5454545454545" y="697.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.49, 0.07]</title>
+<rect x="1104.5454545454545" y="697.5" width="64.03095932337273" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="705.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.36, 0.03]</title>
+<rect x="490.90909090909093" y="705.25" width="103.35617502809487" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="705.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.  , 0.13]</title>
+<rect x="704.5606271005569" y="705.25" width="31.8030019814114" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.42]</title>
+<rect x="859.0909090909091" y="705.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.05,0.42]</title>
+<rect x="924.8949538329229" y="705.25" width="56.92322337731325" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.49, 0.59]</title>
+<rect x="1104.5454545454545" y="705.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.49, 0.11]</title>
+<rect x="1104.5454545454545" y="705.25" width="67.70069632131465" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="713.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.5514613955222" y="713.0" width="93.630356786296" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="713.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61,-0.03]</title>
+<rect x="981.8181818181819" y="713.0" width="89.98471545857826" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.18, 0.36]</title>
+<rect x="1227.2727272727273" y="713.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.18, 0.02]</title>
+<rect x="1227.2727272727273" y="713.0" width="46.38266990914461" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="720.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.6, 0.8]</title>
+<rect x="5.0" y="720.75" width="117.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="720.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="276.02891748925686" y="720.75" width="92.15290069256135" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="720.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.  , 0.13]</title>
+<rect x="704.6571702363955" y="720.75" width="31.706458845572826" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="720.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61,-0.  ]</title>
+<rect x="981.8181818181819" y="720.75" width="94.14272748853057" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="728.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.02, 0.03]</title>
+<rect x="581.8383900680045" y="728.5" width="12.42687586918133" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="728.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.01,0.13]</title>
+<rect x="707.0995029796316" y="728.5" width="29.26412610233666" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.36, 0.1 ]</title>
+<rect x="490.90909090909093" y="736.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.01,0.02]</title>
+<rect x="588.2684708843622" y="736.25" width="5.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" />
+</g>
+<g>
+<title>[-0.12, 0.46]</title>
+<rect x="245.45454545454547" y="744.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[0.02,0.46]</title>
+<rect x="274.5514613955222" y="744.0" width="93.630356786296" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="744.0" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52,-0.03]</title>
+<rect x="368.1818181818182" y="744.0" width="37.56982811718172" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.25, 0.16]</title>
+<rect x="122.72727272727273" y="751.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.25,-0.01]</title>
+<rect x="122.72727272727273" y="751.75" width="71.86014401683198" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.49, 0.59]</title>
+<rect x="1104.5454545454545" y="751.75" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.49,-0.05]</title>
+<rect x="1104.5454545454545" y="751.75" width="50.17405466799838" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.52, 1.08]</title>
+<rect x="368.1818181818182" y="759.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.52, 0.1 ]</title>
+<rect x="368.1818181818182" y="759.5" width="47.768013392488115" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.37, 0.13]</title>
+<rect x="613.6363636363636" y="759.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.  , 0.13]</title>
+<rect x="704.7352575471525" y="759.5" width="31.628371534815756" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="759.5" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61,-0.01]</title>
+<rect x="981.8181818181819" y="759.5" width="92.84118353530316" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.8 ]</title>
+<rect x="0.0" y="767.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.05, 0.8 ]</title>
+<rect x="48.38678299618554" y="767.25" width="74.34049492242139" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.61, 0.19]</title>
+<rect x="981.8181818181819" y="767.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.61, 0.  ]</title>
+<rect x="981.8181818181819" y="767.25" width="94.35026559904156" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<g>
+<title>[-0.49, 0.59]</title>
+<rect x="1104.5454545454545" y="767.25" width="122.72727272727273" height="7.75" shape-rendering="crispEdges" fill="#ffffff" stroke="none" />
+</g>
+<g>
+<title>[-0.49,-0.07]</title>
+<rect x="1104.5454545454545" y="767.25" width="47.901956376033866" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" />
+</g>
+<rect x="0" y="0" width="1350" height="775" fill="none" stroke="#000000" stroke-width="2" />
+<path d="M122.72727272727273,0 L122.72727272727273,775" stroke="#000000" stroke-width="2" />
+<path d="M245.45454545454547,0 L245.45454545454547,775" stroke="#000000" stroke-width="2" />
+<path d="M368.1818181818182,0 L368.1818181818182,775" stroke="#000000" stroke-width="2" />
+<path d="M490.90909090909093,0 L490.90909090909093,775" stroke="#000000" stroke-width="2" />
+<path d="M613.6363636363636,0 L613.6363636363636,775" stroke="#000000" stroke-width="2" />
+<path d="M736.3636363636364,0 L736.3636363636364,775" stroke="#000000" stroke-width="2" />
+<path d="M859.0909090909091,0 L859.0909090909091,775" stroke="#000000" stroke-width="2" />
+<path d="M981.8181818181819,0 L981.8181818181819,775" stroke="#000000" stroke-width="2" />
+<path d="M1104.5454545454545,0 L1104.5454545454545,775" stroke="#000000" stroke-width="2" />
+<path d="M1227.2727272727273,0 L1227.2727272727273,775" stroke="#000000" stroke-width="2" />
+</g>
+<g transform="translate( 300, 125 )">
+<text x="-67.5" y="-41.25" font-size="25" text-anchor="middle" fill="#000000" dy="0em">Rule</text>
+<text x="-67.5" y="-15" font-size="25" text-anchor="middle" fill="#000000" dy="0em">Support</text>
+<g>
+<title>0.6</title>
+<rect x="-105" y="0.0" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="0.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="7.75" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="7.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="15.5" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="15.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="23.25" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="23.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="31.0" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="31.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="38.75" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="38.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="46.5" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="46.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="54.25" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="54.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="62.0" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="62.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="69.75" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="69.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="77.5" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="77.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="85.25" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="85.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="93.0" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="93.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="100.75" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="100.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="108.5" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="108.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="116.25" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="116.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="124.0" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="124.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="131.75" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="131.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="139.5" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="139.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="147.25" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="147.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="155.0" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="155.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="162.75" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="162.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="170.5" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="170.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="178.25" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="178.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="186.0" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="186.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="193.75" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="193.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="201.5" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="201.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="209.25" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="209.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="217.0" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="217.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="224.75" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="224.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="232.5" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="232.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.6</title>
+<rect x="-105" y="240.25" width="45.0" height="7.75" shape-rendering="crispEdges" fill="#7f7f7f" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="240.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.5</title>
+<rect x="-105" y="248.0" width="37.5" height="7.75" shape-rendering="crispEdges" fill="#929292" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="248.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.5</title>
+<rect x="-105" y="255.75" width="37.5" height="7.75" shape-rendering="crispEdges" fill="#929292" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="255.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.5</title>
+<rect x="-105" y="263.5" width="37.5" height="7.75" shape-rendering="crispEdges" fill="#929292" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="263.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.5</title>
+<rect x="-105" y="271.25" width="37.5" height="7.75" shape-rendering="crispEdges" fill="#929292" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="271.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.5</title>
+<rect x="-105" y="279.0" width="37.5" height="7.75" shape-rendering="crispEdges" fill="#929292" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="279.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="286.75" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="286.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="294.5" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="294.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="302.25" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="302.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="310.0" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="310.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="317.75" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="317.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="325.5" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="325.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="333.25" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="333.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="341.0" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="341.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="348.75" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="348.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="356.5" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="356.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="364.25" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="364.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="372.0" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="372.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="379.75" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="379.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="387.5" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="387.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="395.25" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="395.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="403.0" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="403.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="410.75" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="410.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="418.5" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="418.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="426.25" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="426.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="434.0" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="434.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="441.75" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="441.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="449.5" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="449.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="457.25" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="457.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="465.0" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="465.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="472.75" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="472.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="480.5" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="480.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.4</title>
+<rect x="-105" y="488.25" width="30.0" height="7.75" shape-rendering="crispEdges" fill="#a6a6a6" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="488.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="496.0" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="496.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="503.75" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="503.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="511.5" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="511.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="519.25" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="519.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="527.0" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="527.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="534.75" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="534.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="542.5" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="542.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="550.25" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="550.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="558.0" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="558.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="565.75" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="565.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="573.5" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="573.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="581.25" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="581.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="589.0" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="589.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="596.75" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="596.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="604.5" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="604.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="612.25" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="612.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="620.0" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="620.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="627.75" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="627.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="635.5" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="635.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="643.25" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="643.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.3</title>
+<rect x="-105" y="651.0" width="22.5" height="7.75" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="651.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="658.75" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="658.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="666.5" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="666.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="674.25" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="674.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="682.0" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="682.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="689.75" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="689.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="697.5" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="697.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="705.25" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="705.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="713.0" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="713.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="720.75" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="720.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="728.5" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="728.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="736.25" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="736.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.2</title>
+<rect x="-105" y="744.0" width="15.0" height="7.75" shape-rendering="crispEdges" fill="#cecece" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="744.0" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.1</title>
+<rect x="-105" y="751.75" width="7.5" height="7.75" shape-rendering="crispEdges" fill="#e2e2e2" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="751.75" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.1</title>
+<rect x="-105" y="759.5" width="7.5" height="7.75" shape-rendering="crispEdges" fill="#e2e2e2" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="759.5" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.1</title>
+<rect x="-105" y="767.25" width="7.5" height="7.75" shape-rendering="crispEdges" fill="#e2e2e2" stroke="#000000" stroke-width="2" />
+<rect x="-105" y="767.25" width="75" height="7.75" shape-rendering="crispEdges" fill="none" fill-opacity="0.0" stroke="#000000" stroke-width="2" />
+</g>
+<rect x="-105" y="0" width="75" height="775" fill="none" stroke="#000000" stroke-width="2" />
+</g>
+<g transform="translate( 1650, 125 )">
+<text x="67.5" y="-41.25" font-size="25" text-anchor="middle" fill="#000000" dy="0em">Rule</text>
+<text x="67.5" y="-15" font-size="25" text-anchor="middle" fill="#000000" dy="0em">Certainty</text>
+<g>
+<title>1.0</title>
+<rect x="30" y="0.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="0.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="7.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="7.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="15.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="15.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="23.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="23.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="31.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="31.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="38.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="38.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="46.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="46.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="54.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="54.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="62.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="62.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="69.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="69.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="77.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="77.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="85.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="85.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="93.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="93.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="100.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="100.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="108.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="108.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="116.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="116.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="124.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="124.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="131.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="131.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="139.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="139.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="147.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="147.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="155.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="155.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="162.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="162.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="170.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="170.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="178.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="178.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="186.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="186.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="193.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="193.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="201.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="201.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="209.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="209.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="217.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="217.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="224.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="224.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="232.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="232.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="240.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="240.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="248.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="248.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="255.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="255.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="263.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="263.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="271.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="271.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="279.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="279.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="286.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="286.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="294.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="294.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="302.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="302.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="30" y="310.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30.0" y="310.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="317.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="317.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="325.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="325.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="333.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="333.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="341.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="341.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="348.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="348.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="356.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="356.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="364.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="364.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="372.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="372.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="379.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="379.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="30" y="387.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30.0" y="387.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="395.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="395.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.23</title>
+<rect x="30" y="403.0" width="17.30769230769231" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.77</title>
+<rect x="47.30769230769231" y="403.0" width="57.69230769230769" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="410.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="410.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="418.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="418.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="426.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="426.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="434.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="434.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="441.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="441.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="449.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="449.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="457.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="457.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="465.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="465.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="472.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="472.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="480.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="480.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="488.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="488.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="496.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="496.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="503.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="503.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="511.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="511.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="519.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="519.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="527.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="527.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="534.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="534.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="542.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="542.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="550.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="550.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="558.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="558.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="565.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="565.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="573.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="573.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="581.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="581.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="589.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="589.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="596.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="596.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="604.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="604.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="612.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="612.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.67</title>
+<rect x="30" y="620.0" width="50.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.33</title>
+<rect x="80.0" y="620.0" width="25.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="627.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="627.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="635.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="635.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="643.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="643.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="651.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="651.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="658.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="658.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="666.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="666.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.17</title>
+<rect x="30" y="674.25" width="12.5" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.83</title>
+<rect x="42.5" y="674.25" width="62.5" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="682.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="682.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="689.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="689.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="30" y="697.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30.0" y="697.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.67</title>
+<rect x="30" y="705.25" width="50.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.33</title>
+<rect x="80.0" y="705.25" width="25.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="713.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="713.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="720.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="720.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="30" y="728.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30.0" y="728.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="30" y="736.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30.0" y="736.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="744.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="744.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="751.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="751.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="759.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="759.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="30" y="767.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="105.0" y="767.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<rect x="30" y="0" width="75" height="775" fill="none" stroke="#000000" stroke-width="2" />
+<text x="187.5" y="-41.25" font-size="25" text-anchor="middle" fill="#000000" dy="0em">Cumulative</text>
+<text x="187.5" y="-15" font-size="25" text-anchor="middle" fill="#000000" dy="0em">Voting</text>
+<g>
+<title>1.0</title>
+<rect x="150" y="0.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="0.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="7.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="7.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="15.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="15.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="23.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="23.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="31.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="31.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="38.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="38.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="46.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="46.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="54.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="54.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="62.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="62.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="69.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="69.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="77.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="77.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="85.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="85.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="93.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="93.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="100.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="100.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="108.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="108.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="116.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="116.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="124.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="124.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="131.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="131.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="139.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="139.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="147.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="147.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="155.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="155.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="162.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="162.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="170.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="170.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="178.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="178.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="186.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="186.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="193.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="193.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="201.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="201.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="209.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="209.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="217.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="217.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="224.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="224.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="232.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="232.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="240.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="240.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="248.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="248.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="255.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="255.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="263.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="263.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="271.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="271.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="279.0" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="279.0" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="286.75" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="286.75" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="294.5" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="294.5" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>1.0</title>
+<rect x="150" y="302.25" width="75.0" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.0</title>
+<rect x="225.0" y="302.25" width="0.0" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="310.0" width="73.17073170731707" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.1707317073171" y="310.0" width="1.829268292682927" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="317.75" width="73.21428571428571" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.21428571428572" y="317.75" width="1.7857142857142856" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="325.5" width="73.25581395348837" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.25581395348837" y="325.5" width="1.744186046511628" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="333.25" width="73.29545454545455" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.29545454545456" y="333.25" width="1.7045454545454546" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="341.0" width="73.33333333333333" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.33333333333331" y="341.0" width="1.6666666666666667" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="348.75" width="73.36956521739131" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.3695652173913" y="348.75" width="1.6304347826086956" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="356.5" width="73.40425531914893" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.40425531914894" y="356.5" width="1.5957446808510638" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="364.25" width="73.4375" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.4375" y="364.25" width="1.5625" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="372.0" width="73.46938775510203" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.46938775510205" y="372.0" width="1.530612244897959" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.98</title>
+<rect x="150" y="379.75" width="73.5" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.02</title>
+<rect x="223.5" y="379.75" width="1.5" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="387.5" width="72.05882352941177" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.05882352941177" y="387.5" width="2.941176470588235" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="395.25" width="72.11538461538461" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.1153846153846" y="395.25" width="2.8846153846153846" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="403.0" width="71.08127721335269" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.08127721335268" y="403.0" width="3.918722786647315" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="410.75" width="71.15384615384616" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.15384615384616" y="410.75" width="3.846153846153846" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="418.5" width="71.22377622377623" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.2237762237762" y="418.5" width="3.776223776223776" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="426.25" width="71.2912087912088" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.29120879120882" y="426.25" width="3.7087912087912085" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="434.0" width="71.35627530364373" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.3562753036437" y="434.0" width="3.6437246963562755" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="441.75" width="71.41909814323607" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.41909814323606" y="441.75" width="3.5809018567639255" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="449.5" width="71.47979139504564" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.47979139504565" y="449.5" width="3.5202086049543677" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="457.25" width="71.53846153846155" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.53846153846155" y="457.25" width="3.4615384615384612" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="465.0" width="71.59520807061791" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="221.5952080706179" y="465.0" width="3.404791929382093" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="472.75" width="71.6501240694789" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.65012406947892" y="472.75" width="3.3498759305210917" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="480.5" width="71.7032967032967" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.7032967032967" y="480.5" width="3.2967032967032965" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="488.25" width="71.7548076923077" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.75480769230768" y="488.25" width="3.2451923076923075" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="496.0" width="71.80473372781066" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.80473372781066" y="496.0" width="3.195266272189349" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="503.75" width="71.85314685314685" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.85314685314685" y="503.75" width="3.146853146853147" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="511.5" width="71.90011481056257" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.90011481056257" y="511.5" width="3.0998851894374284" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="519.25" width="71.94570135746606" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.94570135746608" y="519.25" width="3.054298642533937" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="527.0" width="71.98996655518394" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.98996655518394" y="527.0" width="3.0100334448160537" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="534.75" width="72.03296703296702" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.032967032967" y="534.75" width="2.9670329670329667" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="542.5" width="72.0747562296858" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.07475622968582" y="542.5" width="2.925243770314193" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="550.25" width="72.11538461538461" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.1153846153846" y="550.25" width="2.8846153846153846" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="558.0" width="72.15489989462591" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.1548998946259" y="558.0" width="2.8451001053740783" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="565.75" width="72.19334719334718" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.19334719334717" y="565.75" width="2.806652806652807" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="573.5" width="72.23076923076923" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.23076923076923" y="573.5" width="2.769230769230769" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="581.25" width="72.2672064777328" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.2672064777328" y="581.25" width="2.7327935222672064" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="589.0" width="72.3026973026973" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.3026973026973" y="589.0" width="2.697302697302697" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="596.75" width="72.33727810650888" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.33727810650888" y="596.75" width="2.6627218934911245" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="604.5" width="72.37098344693281" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.37098344693283" y="604.5" width="2.6290165530671863" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.97</title>
+<rect x="150" y="612.25" width="72.40384615384615" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.03</title>
+<rect x="222.40384615384613" y="612.25" width="2.5961538461538463" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="620.0" width="72.1272554605888" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.1272554605888" y="620.0" width="2.872744539411206" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="627.75" width="72.16228893058161" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.1622889305816" y="627.75" width="2.8377110694183867" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="635.5" width="72.1964782205746" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.1964782205746" y="635.5" width="2.8035217794253944" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="643.25" width="72.22985347985347" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.2298534798535" y="643.25" width="2.77014652014652" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="651.0" width="72.26244343891403" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.26244343891403" y="651.0" width="2.737556561085973" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="658.75" width="72.29427549194992" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.29427549194992" y="658.75" width="2.7057245080500896" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="666.5" width="72.32537577365164" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="222.32537577365164" y="666.5" width="2.674624226348364" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="674.25" width="71.64554195804196" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.64554195804197" y="674.25" width="3.3544580419580425" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="682.0" width="71.68323249783924" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.68323249783924" y="682.0" width="3.3167675021607606" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.96</title>
+<rect x="150" y="689.75" width="71.72008547008546" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.04</title>
+<rect x="221.72008547008545" y="689.75" width="3.27991452991453" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.95</title>
+<rect x="150" y="697.5" width="70.9319526627219" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.05</title>
+<rect x="220.9319526627219" y="697.5" width="4.068047337278107" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.94</title>
+<rect x="150" y="705.25" width="70.70443143812709" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.06</title>
+<rect x="220.70443143812707" y="705.25" width="4.2955685618729085" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.94</title>
+<rect x="150" y="713.0" width="70.75062034739454" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.06</title>
+<rect x="220.75062034739454" y="713.0" width="4.249379652605459" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.94</title>
+<rect x="150" y="720.75" width="70.79582651391162" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.06</title>
+<rect x="220.7958265139116" y="720.75" width="4.204173486088379" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.93</title>
+<rect x="150" y="728.5" width="70.0506072874494" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.07</title>
+<rect x="220.0506072874494" y="728.5" width="4.9493927125506065" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.92</title>
+<rect x="150" y="736.25" width="69.32091346153847" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.08</title>
+<rect x="219.32091346153845" y="736.25" width="5.679086538461538" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.93</title>
+<rect x="150" y="744.0" width="69.37946074544013" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.07</title>
+<rect x="219.37946074544013" y="744.0" width="5.620539254559872" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.93</title>
+<rect x="150" y="751.75" width="69.43681318681318" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.07</title>
+<rect x="219.4368131868132" y="751.75" width="5.563186813186812" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.93</title>
+<rect x="150" y="759.5" width="69.49300699300699" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.07</title>
+<rect x="219.493006993007" y="759.5" width="5.506993006993006" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.93</title>
+<rect x="150" y="767.25" width="69.54807692307692" height="7.75" shape-rendering="crispEdges" fill="#1f77b3" stroke="#000000" stroke-width="2" />
+</g>
+<g>
+<title>0.07</title>
+<rect x="219.5480769230769" y="767.25" width="5.451923076923076" height="7.75" shape-rendering="crispEdges" fill="#ff7e0e" stroke="#000000" stroke-width="2" />
+</g>
+<rect x="150" y="0" width="75" height="775" fill="none" stroke="#000000" stroke-width="2" />
+<rect x="290" y="0.0" width="35.0" height="35.0" fill="#1f77b3" stroke="#000000" stroke-width="2.0" />
+<text x="332.0" y="30.0" font-size="25.0" text-anchor="start" fill="#000000" dy="0em">normal. | 0.93</text>
+<rect x="290" y="35.0" width="35.0" height="35.0" fill="#ff7e0e" stroke="#000000" stroke-width="2.0" />
+<text x="332.0" y="65.0" font-size="25.0" text-anchor="start" fill="#000000" dy="0em">snmpgetattack. | 0.07</text>
+<rect x="290" y="105.0" width="35.0" height="175.0" fill="url(#d0)" stroke="#000000" stroke-width="2.0" />
+<path d="M332.0,105.0 L332.0,280.0" stroke="#000000" stroke-width="2.4" />
+<path d="M332.0,105.0 L342.0,105.0" stroke="#000000" stroke-width="2.4" />
+<text x="346.0" y="111.25" font-size="25.0" text-anchor="start" fill="#000000" dy="0em">1.0</text>
+<path d="M332.0,148.75 L342.0,148.75" stroke="#000000" stroke-width="2.4" />
+<text x="346.0" y="155.0" font-size="25.0" text-anchor="start" fill="#000000" dy="0em">0.75</text>
+<path d="M332.0,192.5 L342.0,192.5" stroke="#000000" stroke-width="2.4" />
+<text x="346.0" y="198.75" font-size="25.0" text-anchor="start" fill="#000000" dy="0em">0.5</text>
+<path d="M332.0,236.25 L342.0,236.25" stroke="#000000" stroke-width="2.4" />
+<text x="346.0" y="242.5" font-size="25.0" text-anchor="start" fill="#000000" dy="0em">0.25</text>
+<path d="M332.0,280.0 L342.0,280.0" stroke="#000000" stroke-width="2.4" />
+<text x="346.0" y="286.25" font-size="25.0" text-anchor="start" fill="#000000" dy="0em">0.0</text>
+<text x="290" y="315.0" font-size="25.0" text-anchor="start" fill="#000000"><tspan x="290" dy="0em"></tspan><tspan x="290" dy="1em">instance 2</tspan><tspan x="290" dy="1em"></tspan><tspan x="290" dy="1em">type local-used</tspan><tspan x="290" dy="1em"></tspan><tspan x="290" dy="1em">rules 100</tspan><tspan x="290" dy="1em">by support</tspan><tspan x="290" dy="1em"></tspan><tspan x="290" dy="1em">features 11</tspan><tspan x="290" dy="1em">by importance</tspan></text>
+</g>
+<g transform="translate( 300, 125 )">
+<text x="675.0" y="-50" font-size="25" text-anchor="middle" fill="#000000" dy="0em">Feature Importance</text>
+<g transform="translate( 0.0, -35 )">
+<rect x="0" y="0" width="37.0976104531427" height="20" shape-rendering="crispEdges" fill="#bababa" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.3</title>
+</g>
+<g transform="translate( 122.72727272727273, -35 )">
+<rect x="0" y="0" width="16.72173273249821" height="20" shape-rendering="crispEdges" fill="#dbdbdb" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.14</title>
+</g>
+<g transform="translate( 245.45454545454547, -35 )">
+<rect x="0" y="0" width="13.978810132558499" height="20" shape-rendering="crispEdges" fill="#dfdfdf" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.11</title>
+</g>
+<g transform="translate( 368.1818181818182, -35 )">
+<rect x="0" y="0" width="9.86670088776814" height="20" shape-rendering="crispEdges" fill="#e6e6e6" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.08</title>
+</g>
+<g transform="translate( 490.90909090909093, -35 )">
+<rect x="0" y="0" width="8.971932045131386" height="20" shape-rendering="crispEdges" fill="#e7e7e7" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.07</title>
+</g>
+<g transform="translate( 613.6363636363636, -35 )">
+<rect x="0" y="0" width="7.253269566780504" height="20" shape-rendering="crispEdges" fill="#e9e9e9" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.06</title>
+</g>
+<g transform="translate( 736.3636363636364, -35 )">
+<rect x="0" y="0" width="6.832463122875026" height="20" shape-rendering="crispEdges" fill="#eaeaea" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.06</title>
+</g>
+<g transform="translate( 859.0909090909091, -35 )">
+<rect x="0" y="0" width="6.760196708456257" height="20" shape-rendering="crispEdges" fill="#eaeaea" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.06</title>
+</g>
+<g transform="translate( 981.8181818181819, -35 )">
+<rect x="0" y="0" width="6.599112458362744" height="20" shape-rendering="crispEdges" fill="#ebebeb" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.05</title>
+</g>
+<g transform="translate( 1104.5454545454545, -35 )">
+<rect x="0" y="0" width="4.593710917373525" height="20" shape-rendering="crispEdges" fill="#eeeeee" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.04</title>
+</g>
+<g transform="translate( 1227.2727272727273, -35 )">
+<rect x="0" y="0" width="4.051733702325728" height="20" shape-rendering="crispEdges" fill="#efefef" stroke="#000000" stroke-width="2" />
+<rect x="0" y="0" width="122.72727272727273" height="20" shape-rendering="crispEdges" fill="none" stroke="#000000" stroke-width="2" />
+<title>0.03</title>
+</g>
+<rect x="0" y="-35" width="1350" height="20" fill="none" stroke="#000000" stroke-width="2" />
+</g>
+</svg>
