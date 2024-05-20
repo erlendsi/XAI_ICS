@@ -17,7 +17,7 @@ from sklearn.model_selection import train_test_split, cross_val_score, Stratifie
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 from functions import pca_anomaly_detector, evaluate_model, get_mse_loss, get_mae_loss, get_rmse_loss
 DATASET = 'NSL_KDD'
-THRESHOLD = 0.0005
+THRESHOLD = 0.005
 COMPONENTS = 19
 TITLE = f'PCA & RF: {DATASET}'
 SAVE_PATH = f'images/{DATASET}_pca_rf_confusion_matrix.png'
@@ -55,12 +55,6 @@ y_test_org = nsl_kdd_test["outcome"]
 print(y_train_org.value_counts())
 print(y_test_org.value_counts())
 
-#nsl_kdd_train.loc[nsl_kdd_train['outcome'] == "normal", "outcome"] = 'normal'
-#nsl_kdd_train.loc[nsl_kdd_train['outcome'] != 'normal', "outcome"] = 'attack'
-
-#nsl_kdd_test.loc[nsl_kdd_test['outcome'] == "normal", "outcome"] = 'normal'
-#nsl_kdd_test.loc[nsl_kdd_test['outcome'] != 'normal', "outcome"] = 'attack'
-
 X_train = nsl_kdd_train[num_features]
 X_test = nsl_kdd_test[num_features]
 y_train = nsl_kdd_train["outcome"]
@@ -70,16 +64,6 @@ y_train = y_train.apply(lambda x: 'attack' if x != 'normal' else x)
 y_test = y_test.apply(lambda x: 'attack' if x != 'normal' else x)
 y_train_pca = label_binarize(y_train, classes = ['normal', 'attack'])
 y_test_pca = label_binarize(y_test, classes = ['normal', 'attack'])
-
-
-
-
-#X = pd.concat([X_train, X_test])
-
-#y_true = pd.concat([y_train, y_test])
-
-#X.reset_index(drop=True, inplace=True)
-#y_true.reset_index(drop=True, inplace=True)
 
 scaler = MinMaxScaler()
 
@@ -104,10 +88,6 @@ X_train_pca = pd.DataFrame(pca.inverse_transform(pca_train), index=X_train_org.i
 pca = PCA(n_components=COMPONENTS, random_state=0)
 pca_test = pd.DataFrame(pca.fit_transform(X_test_org))
 X_test_pca = pd.DataFrame(pca.inverse_transform(pca_test), index=X_test_org.index)
-
-#X_train_pca, X_test_pca, y_train_pca, y_test_pca = train_test_split(df_restored, y_true, test_size=0.15, random_state=42)
-#X_train_org, X_test_org, y_train_org, y_test_org = train_test_split(features_scaled, y_true, test_size=0.15, random_state=42)
-
 
 print('\n ----- Training RF model ----- \n')
 
